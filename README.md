@@ -1,5 +1,5 @@
 # 내일의창업 tmrfounders
-<a href="https://63637ce78c437e48b7b0177d--peppy-maamoul-97716f.netlify.app/">
+https://63637ce78c437e48b7b0177d--peppy-maamoul-97716f.netlify.app/
 
 # 웹페이지 설명
 내일의창업 공식 홈페이지를 들어갔을때 가장 먼저 보이는 랜딩페이지.
